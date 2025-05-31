@@ -1,0 +1,12 @@
+html {
+  background: rgb(44,38,135);
+  background: linear-gradient(90deg, rgba(44,38,135,1) 0%, rgba(19,19,180,1) 18%,  
+  rgba(0,212,255,1) 100%);
+  color: #000000;
+  font-family: monospace;
+  font-size: 24px;
+  font-weight: bold;
+  text-align:center ;
+  /* height: 100%;  */
+  /* width: 100%; */
+}
